@@ -1,0 +1,2 @@
+# pcBuddy
+Computer resource monitor.
